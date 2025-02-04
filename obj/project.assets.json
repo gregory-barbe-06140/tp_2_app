@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/sskiizens/.nuget/packages/": {}
+    "C:\\Users\\barbe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/tp2-infra.csproj",
+      "projectUniqueName": "C:\\Users\\barbe\\BlueTeam\\tp2-infra\\tp2-infra.csproj",
       "projectName": "tp2-infra",
-      "projectPath": "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/tp2-infra.csproj",
-      "packagesPath": "/Users/sskiizens/.nuget/packages/",
-      "outputPath": "/Users/sskiizens/Documents/DevSecOps_Course/tp2/tp2-infra/obj/",
+      "projectPath": "C:\\Users\\barbe\\BlueTeam\\tp2-infra\\tp2-infra.csproj",
+      "packagesPath": "C:\\Users\\barbe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\barbe\\BlueTeam\\tp2-infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/sskiizens/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\barbe\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
